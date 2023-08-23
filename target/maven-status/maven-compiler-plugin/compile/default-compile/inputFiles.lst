@@ -4,4 +4,6 @@ C:\Users\marti\Downloads\Eldar\tarjetasCredito\src\main\java\com\example\tarjeta
 C:\Users\marti\Downloads\Eldar\tarjetasCredito\src\main\java\com\example\tarjetascredito\service\TarjetaService.java
 C:\Users\marti\Downloads\Eldar\tarjetasCredito\src\main\java\com\example\tarjetascredito\controller\TarjetaController.java
 C:\Users\marti\Downloads\Eldar\tarjetasCredito\src\main\java\com\example\tarjetascredito\model\TarjetaCredito.java
+C:\Users\marti\Downloads\Eldar\tarjetasCredito\src\main\java\com\example\tarjetascredito\exception\BadRequestException.java
+C:\Users\marti\Downloads\Eldar\tarjetasCredito\src\main\java\com\example\tarjetascredito\dto\TasaDTO.java
 C:\Users\marti\Downloads\Eldar\tarjetasCredito\src\main\java\com\example\tarjetascredito\model\MarcaTarjeta.java

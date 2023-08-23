@@ -6,10 +6,8 @@ import java.math.BigDecimal;
 
 @Data
 public class Operacion {
-
     private TarjetaCredito tarjeta;
     private BigDecimal monto;
-
 
 
     public Operacion() {

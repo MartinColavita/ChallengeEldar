@@ -1,5 +1,6 @@
 package com.example.tarjetascredito.service;
 
+import com.example.tarjetascredito.model.MarcaTarjeta;
 import com.example.tarjetascredito.model.Operacion;
 import com.example.tarjetascredito.model.TarjetaCredito;
 import java.math.BigDecimal;

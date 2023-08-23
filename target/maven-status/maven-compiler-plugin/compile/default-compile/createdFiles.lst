@@ -1,8 +1,10 @@
 com\example\tarjetascredito\model\TarjetaCredito.class
 com\example\tarjetascredito\TarjetasCreditoApplication.class
 com\example\tarjetascredito\model\MarcaTarjeta.class
+com\example\tarjetascredito\dto\TasaDTO.class
 com\example\tarjetascredito\service\TarjetaServiceImpl$1.class
 com\example\tarjetascredito\model\Operacion.class
 com\example\tarjetascredito\controller\TarjetaController.class
 com\example\tarjetascredito\service\TarjetaServiceImpl.class
+com\example\tarjetascredito\exception\BadRequestException.class
 com\example\tarjetascredito\service\TarjetaService.class

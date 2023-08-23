@@ -53,8 +53,6 @@ public class TarjetasCreditoApplication {
 
         BigDecimal tasa = servicio.calcularTasa(operacion);
         System.out.println("Tasa: " + tasa);
-
-
     }
 
 }
